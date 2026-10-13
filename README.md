@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Tchali!
+# 👋 welcome!
 
 💻 **Desenvolvedor em formação | Web Development | Programming | Networking | Cybersecurity**
 
