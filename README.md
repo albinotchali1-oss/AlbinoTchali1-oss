@@ -26,7 +26,7 @@ Atualmente estou focado em evoluir minhas habilidades em **desenvolvimento web, 
 ### 💻 Desenvolvimento
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,net,html,css,js,python" />
+  <img src="https://skillicons.dev/icons?i=cs,net,html,css,js,php,python" />
 </p>
 
 ### 🗄️ Banco de Dados
